@@ -2,7 +2,7 @@
 
 Pixel game about death in a digital era, with a name stolen from a Pink Floyd song. 
 
-I made it in 2019 with Unity (2017.1.1), all sprites were drawn with Aseprite (www.aseprite.org). The .exe file only runs on Windows.
+Developed in 2019 with Unity (2017.1.1). All sprites were drawn with Aseprite (www.aseprite.org). The .exe file only runs on Windows.
 
 [Source file to be added]
 
